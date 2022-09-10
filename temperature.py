@@ -21,3 +21,4 @@ if(st.checkbox("Would you like to know formula?")):
     st.text("F = Degrees Fahrenheit")
     st.text("C = Degrees Celsius")
 # this is the end of code.
+# Thank you.
