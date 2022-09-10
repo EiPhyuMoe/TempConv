@@ -20,3 +20,4 @@ if(st.checkbox("Would you like to know formula?")):
     st.latex(r'''C = \dfrac{5}{9}(F - 32) ''')
     st.text("F = Degrees Fahrenheit")
     st.text("C = Degrees Celsius")
+# this is the end of code.
